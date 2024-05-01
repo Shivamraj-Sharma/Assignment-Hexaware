@@ -34,7 +34,7 @@ USE HMBank
 
 **4. Create an ERD (Entity Relationship Diagram) for the database.**
 
-![Entity Relationship Diagram](.\Resources\ERD-HMBank.png)
+![Entity Relationship Diagram](https://github.com/Shivamraj-Sharma/Assignment-Hexaware/blob/main/Resources/ERD-HMBank.png)
 
 **5. Create appropriate Primary Key and Foreign Key constraints for referential integrity.**
 
